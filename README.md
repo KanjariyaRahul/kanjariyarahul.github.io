@@ -1,3 +1,4 @@
+
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Rahul Kanjariya </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Ui/Ux+and+FrontEnd+Devloper%3A)" /> </h3>
 
@@ -38,11 +39,11 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=rahul9265&show_icons=true&theme=dark&locale=en" alt="rahul9265" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul9265&show_icons=true&theme=dark&locale=en&layout=compact" alt="rahul9265" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=KanjariyaRahul&show_icons=true&theme=dark&locale=en" alt="KanjariyaRahul" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KanjariyaRahul&show_icons=true&theme=dark&locale=en&layout=compact" alt="KanjariyaRahul" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul9265&theme=dark" alt="rahul9265" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KanjariyaRahul&theme=dark" alt="KanjariyaRahul" /></p>
   </div>
