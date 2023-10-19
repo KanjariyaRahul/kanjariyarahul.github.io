@@ -1879,9 +1879,11 @@ section#features-section {
   }
   .features-section .image-wrapper {
     text-align: center;
+    background: url(../image/testimonial-bg.jpg);
   }
   .features-section .image-wrapper img {
     width: 60%;
+    background: url(../image/testimonial-bg.jpg);
   }
   .features-section .content-block {
     padding-left: calc(var(--bs-gutter-x) * 0.5);
