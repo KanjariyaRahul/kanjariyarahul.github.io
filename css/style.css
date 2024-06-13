@@ -1425,11 +1425,12 @@ section#features-section {
   margin-bottom: 48px;
 }
 .contact-section .map-wrapper {
-  min-height: 396px;
+ 
   background: #f2f5fb;
   margin-right: 90px;
   border-radius: 10px;
 }
+
 .contact-section form > div {
   margin-bottom: 0 !important;
   margin-top: 0 !important;
@@ -1686,7 +1687,7 @@ section#features-section {
     right: -10px;
   }
   .hero-area .image-wrapper img {
-    width: 66%;
+    width: 64%;
   }
   .hero-area .hero-facts li {
     padding: 16px;
@@ -1906,9 +1907,10 @@ section#features-section {
   .contact-section .icon-box {
     flex-shrink: 0;
   }
-  .contact-section .map-wrapper {
+  .contact-section .map-wrapper  {
     margin-right: 0;
   }
+  
   .site-footer .social-block li {
     margin-right: 15px;
   }
